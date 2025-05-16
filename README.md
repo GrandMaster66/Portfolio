@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Gaurav.
 
 Welcome to my personal portfolio repository.  
 I'm a student passionate about coding and technology.  
